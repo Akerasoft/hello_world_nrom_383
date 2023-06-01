@@ -6,4 +6,4 @@ It sets up a sample NES.CFG for this mapper and then uses
 The correct segments and header file to make it all work.
 
 (C) Akerasoft 2023
-Open source - See LICENCE file.
+Open source - GPL 3.0 - See LICENCE file.
