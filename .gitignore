@@ -1,1 +1,6 @@
 bin/
+*.deb
+*.nes
+*.list
+*.lst
+
